@@ -40,6 +40,10 @@ A Docker image based on [Debian _Stretch_](https://www.debian.org/releases/stret
 
 ## Changelog
 
+### 0.4
+
+ - Replaced MySQL with MariaDB where applicable
+
 ### 0.3
 
  - Adds Yarn, `subversion`, `php5-xmlrpc`, `php5-json`, `php5-geoip`, `php5-apcu`, `php5-xhprof`
